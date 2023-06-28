@@ -1,8 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import Header from "./Components/Header";
-import WeeklyStory from "./Components/WeeklyStory";
+import Home from "./Pages/Home";
+import PeoplePage from "./Pages/PeoplePage";
+import PersonPage from "./Pages/PersonPage";
+import ContactUs from "./Pages/ContactUs";
+import OurStory from "./Pages/OurStory";
+import StoryTeller from "./Pages/Storyteller";
 // eslint-disable-next-line no-unused-vars
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import reportWebVitals from "./reportWebVitals";
@@ -10,8 +14,14 @@ import reportWebVitals from "./reportWebVitals";
 const App = () => {
   return (
     <BrowserRouter>
-      <Header />
-      <WeeklyStory />
+      <Routes>
+        <Route exact path="/" element={<Home />} />
+        <Route path="/people/:year" element={<PeoplePage />} />
+        <Route path="/person/:id" element={<PersonPage />} />
+        <Route path="/ContactUs/" element={<ContactUs />} />
+        <Route path="/OurStory/" element={<OurStory />} />
+        <Route path="/StoryTeller/" element={<StoryTeller />} />
+      </Routes>
     </BrowserRouter>
   );
 };

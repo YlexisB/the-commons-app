@@ -1,20 +1,19 @@
 import React from "react";
+import Aos from "aos";
+import "aos/dist/aos.css";
+import { WEEKLY_STORY } from "../constants";
+
 const WeeklyStory = () => {
   return (
     <section id="weekly-story">
       <div id="week-story">
-        <div id="week-text">
+        <div data-aos="fade-left" id="week-text">
           <hr />
-          <h3>STORY OF THE WEEK</h3>
-          <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
-          </p>
+          <h3>{WEEKLY_STORY.storyTitle}</h3>
+          <p>{WEEKLY_STORY.storyDescription}</p>
           <hr />
         </div>
-        <div id="week-story-pic">
+        <div data-aos="fade-right" id="week-story-pic">
           <img id="week-person-pic" src="/images/nelson-pink.png" alt="" />
         </div>
       </div>

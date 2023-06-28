@@ -1,0 +1,241 @@
+{
+  "timePeriods": [
+    {
+      "year": "1500s",
+      "people": [
+        {
+          "name": "Anacaona",
+          "image": "anacaona1.jpg",
+          "short-description": "I am Anacaona, a proud leader of the Taíno people in Haiti during the 15th century. I am known for my bravery, wisdom, and advocacy for my people's rights. Join me as I share my remarkable journey of resistance and resilience.",
+          "image-2": "anacoana-2.jpg",
+          "longer-description": "I came into this world in the 15th century, in the beautiful land we now call Haiti. As a proud member of the Taíno people, I witnessed the arrival of the Spanish colonizers and their quest for dominance. . Amidst the struggles,  I stood as a leader and cacique, fiercely protecting our ancestral lands and preserving our rich culture. Throughout my life, I faced countless challenges, but I never wavered in my commitment to my people. My efforts to resist injustice and advocate for our rights define my legacy, inspiring generations to honor the resilience and spirit of the Taíno people.",
+          "h1": "es-es",
+          "v": "Luna",
+          "id": "anacoana"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        }
+      ]
+    },
+    {
+      "year": "1600s",
+      "people": [
+        {
+          "name": "Abram Petrovich",
+          "image": "abram-2.jpg",
+          "short-description": "Hello, I am Abram Petrovich, but you may know me as Gannibal. Born into slavery, I overcame adversity to become a prominent military commander, diplomat, and engineer of the Russian Empire. With a relentless spirit and a thirst for knowledge, I strive to leave a lasting legacy through my accomplishments. Welcome to my story.",
+          "image-2": "abram-1.jpg",
+          "longer-description": "Born in 1696, I endured the horrors of slavery in the Ottoman Empire before being taken to Russia as a gift to Peter the Great. Recognizing my potential, Peter provided me with education and opportunities. Throughout my life, I excelled as a military engineer, contributing to the fortification of Russian cities. I also served as a trusted advisor to Empress Elizabeth. My legacy extends beyond my own achievements, as my great-grandson Alexander Pushkin became one of Russia's greatest poets, immortalizing my story for generations to come.",
+          "h1": "hr-hr",
+          "v": "Nikola",
+          "id": "abram-petrovich"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        }
+      ]
+    },
+    {
+      "year": "1700s",
+      "people": [
+        {
+          "name": "Vincente Guerrero",
+          "image": "vincente-1.jpg",
+          "short-description": "I am Vicente Guerrero, the second President of Mexico. Born in 1782, I rose from humble beginnings and dedicated my life to the pursuit of freedom and social justice. Through my leadership, I brought about significant reforms and fought for the rights of the people. I invite you to immerse yourself in my story.",
+          "image-2": "vincente-2.jpg",
+          "longer-description": "I was born on August 10, 1782, in Tixtla, Mexico, to a father of African descent. Despite facing discrimination and prejudice due to my heritage, I became a prominent military leader during the Mexican War of Independence (1810-1821). I fought tirelessly for the cause of freedom and equality, facing numerous challenges and hardships along the way. On April 1, 1829, I assumed the presidency of Mexico, serving as the country's second president. During my presidency, I implemented important reforms, advocated for social justice, and abolished slavery, leaving a lasting impact on Mexico's history.",
+          "h1": "es-mx",
+          "v": "Jose",
+          "id": "vincente-guerrero"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        }
+      ]
+    },
+
+    {
+      "year": "1800s",
+      "people": [
+        {
+          "name": "Mary Bowser",
+          "image": "maryb-1.png",
+          "short-description": "Operating in secrecy, I am Mary Bowser, a spy whose loyalty lies with the Union. I risk my life to gather critical intelligence. My unwavering commitment to justice drives me to navigate treacherous waters and protect the cause I hold dear. Join me in the unfolding of my story.",
+          "image-2": "maryb-2.jpg",
+          "longer-description": " Born a slave in Virginia around 1839, I endured the hardships of bondage. Educated in Philadelphia, I honed my intellect. In the turbulent era of the American Civil War, I embarked on a perilous journey fueled by my unwavering commitment to freedom. With audacious bravery, I infiltrated the Confederate White House as a Union spy, operating under the guise of a servant. From 1861 to 1865, my courageous acts challenged the institution of slavery and aided the Union cause. With unwavering resolve, I risked my life to dismantle the very system that had enslaved me, forever leaving an indelible mark on history.",
+          "h1": "en-ca",
+          "v": "Emma",
+
+          "id": "mary-bowser"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        }
+      ]
+    },
+    {
+      "year": "1900s",
+      "people": [
+        {
+          "name": "Elizabeth Smith Friedman",
+          "image": "elizabethf-1.jpg",
+          "short-description": "I have dedicated my life to unraveling secrets hidden within coded messages. As a cryptanalyst, I decipher the enigmatic language of encryption, delving into the depths of puzzles and ciphers. With each code I crack, I unveil the truth that lies beneath, forever changing the course of history. Welcome to my story.",
+          "image-2": "elizabethf-2.jpg",
+          "longer-description": "In the early 20th century, I ventured into the world of cryptanalysis, armed with determination and an insatiable curiosity. Amidst the challenges and prejudices of the time, I emerged as a pioneering figure in code-breaking. From cracking the notorious Purple cipher during World War II to co-founding the Cryptanalytic Bureau, my accomplishments shaped the field of cryptology. With unwavering dedication, I unraveled the secrets that safeguarded nations, leaving an indelible mark on the history of intelligence.",
+          "h1": "en-gb",
+          "v": "Alice",
+          "id": "elizabeth-smith-friedman"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        },
+        {
+          "name": "Name",
+          "image": "gray-square.png",
+          "short-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "image-2": "gray-square.png",
+          "longer-description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "id": "name"
+        }
+      ]
+    }
+  ]
+}
