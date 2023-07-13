@@ -10,17 +10,20 @@ import StoryTeller from "./Pages/Storyteller";
 // eslint-disable-next-line no-unused-vars
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import reportWebVitals from "./reportWebVitals";
+import Layout from "./Components/Layout";
 
 const App = () => {
   return (
     <BrowserRouter>
       <Routes>
         <Route exact path="/" element={<Home />} />
-        <Route path="/people/:year" element={<PeoplePage />} />
-        <Route path="/person/:id" element={<PersonPage />} />
-        <Route path="/ContactUs/" element={<ContactUs />} />
-        <Route path="/OurStory/" element={<OurStory />} />
-        <Route path="/StoryTeller/" element={<StoryTeller />} />
+        <Route element={<Layout />}>
+          <Route path="/people/:year" element={<PeoplePage />} />
+          <Route path="/person/:id" element={<PersonPage />} />
+          <Route path="/ContactUs/" element={<ContactUs />} />
+          <Route path="/OurStory/" element={<OurStory />} />
+          <Route path="/StoryTeller/" element={<StoryTeller />} />
+        </Route>
       </Routes>
     </BrowserRouter>
   );

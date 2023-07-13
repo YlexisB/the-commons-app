@@ -1,13 +1,11 @@
 import React from "react";
-import StaticHeader from "../Components/StaticHeader";
-import Footer from "../Components/Footer";
+
 import { Link } from "react-router-dom";
 import { HEADER_STUFF, OUR_STORY } from "../constants";
 
 const OurStory = () => {
   return (
     <div>
-      <StaticHeader />
       <div id="about-container">
         <div className="circle-mask">
           <img src="../images/airplane.png" className="floating" alt="" />
@@ -23,7 +21,6 @@ const OurStory = () => {
           </Link>
         </div>
       </div>
-      <Footer />
     </div>
   );
 };

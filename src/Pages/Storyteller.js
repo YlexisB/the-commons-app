@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import StaticHeader from "../Components/StaticHeader";
-import Footer from "../Components/Footer";
+
 import { TELL_YOUR_STORY } from "../constants";
 
 const StoryTeller = () => {
@@ -17,7 +16,6 @@ const StoryTeller = () => {
 
   return (
     <div className="storyteller-section">
-      <StaticHeader />
       <div className={`contact-section ${submitted ? "change-padding" : ""}`}>
         {submitted ? (
           <p className="white">{TELL_YOUR_STORY.submission}</p>
@@ -76,7 +74,6 @@ const StoryTeller = () => {
           </div>
         )}
       </div>
-      <Footer />
     </div>
   );
 };

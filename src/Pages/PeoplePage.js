@@ -1,14 +1,13 @@
 import React from "react";
-import StaticHeader from "../Components/StaticHeader";
+
 import { Link, useParams } from "react-router-dom";
-import Footer from "../Components/Footer";
+
 import data from "../data.json";
 const PeoplePage = () => {
   const { year } = useParams();
   const timePeriod = data.timePeriods.find((period) => period.year === year);
   return (
     <div>
-      <StaticHeader />
       <section id="people-section">
         <div className="back-year">
           <Link to="/">
@@ -48,7 +47,7 @@ const PeoplePage = () => {
           ))}
         </div>
       </section>
-      <Footer />
+      
     </div>
   );
 };
