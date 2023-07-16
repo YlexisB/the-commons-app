@@ -8,13 +8,13 @@ import ContactUs from "./Pages/ContactUs";
 import OurStory from "./Pages/OurStory";
 import StoryTeller from "./Pages/Storyteller";
 // eslint-disable-next-line no-unused-vars
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import reportWebVitals from "./reportWebVitals";
 import Layout from "./Components/Layout";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route exact path="/" element={<Home />} />
         <Route element={<Layout />}>
@@ -25,7 +25,7 @@ const App = () => {
           <Route path="/StoryTeller/" element={<StoryTeller />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
