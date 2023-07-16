@@ -15,7 +15,7 @@ const WeeklyStory = () => {
         <div data-aos="fade-right" id="week-story-pic">
           <img
             id="week-person-pic"
-            src="./public/images/nelson-pink.png"
+            src="../public/images/nelson-pink.png"
             alt=""
           />
         </div>
