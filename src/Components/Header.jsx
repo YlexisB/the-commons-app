@@ -1,6 +1,6 @@
 import { Link, useNavigate } from "react-router-dom";
-import React, { useState, useEffect, useRef } from "react";
-import WeeklyStory from "./WeeklyStory";
+import React, { useEffect } from "react";
+
 import Aos from "aos";
 import "aos/dist/aos.css";
 import { HEADER_STUFF } from "../constants";
