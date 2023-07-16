@@ -1,8 +1,6 @@
 import React from "react";
-
 import "aos/dist/aos.css";
 import { WEEKLY_STORY } from "../constants";
-import nelsonPinkImage from "../images/nelson-pink.png";
 
 const WeeklyStory = () => {
   return (
@@ -15,7 +13,7 @@ const WeeklyStory = () => {
           <hr />
         </div>
         <div data-aos="fade-right" id="week-story-pic">
-          <img id="week-person-pic" src={nelsonPinkImage} alt="" />
+          <img id="week-person-pic" src="../images/nelson-pink.png" alt="" />
         </div>
       </div>
     </section>
