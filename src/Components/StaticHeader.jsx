@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import React, { useState, useEffect } from "react";
-import WeeklyStory from "./WeeklyStory";
+import React from "react";
+
 import { HEADER_STUFF } from "../constants";
 
 const StaticHeader = () => {

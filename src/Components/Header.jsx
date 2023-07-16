@@ -6,11 +6,9 @@ import "aos/dist/aos.css";
 import { HEADER_STUFF } from "../constants";
 
 const Header = () => {
-  const [selectedPeriod, setSelectedPeriod] = useState(null);
   const navigate = useNavigate();
 
   const handlePeriodClick = (period) => {
-    setSelectedPeriod(period);
     navigate(`/people/${period}`);
   };
 

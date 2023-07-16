@@ -23,7 +23,7 @@ const PersonPage = () => {
       method: "GET",
       url: VOICERSS_API_URL,
       params: {
-        key: "ee16c4bd239b4a468c851189e3a1396e",
+        key: process.env.REACT_APP_VOICERSS_KEY,
         src: text,
         hl: h1,
         v: v,
@@ -33,7 +33,7 @@ const PersonPage = () => {
         b64: true,
       },
       headers: {
-        "X-RapidAPI-Key": "c75c7bc23emsh696857f578e873cp163103jsndbf0b73aa016",
+        "X-RapidAPI-Key": process.env.REACT_APP_RAPID_API_KEY,
         "X-RapidAPI-Host": "voicerss-text-to-speech.p.rapidapi.com",
       },
     };
