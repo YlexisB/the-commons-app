@@ -18,11 +18,11 @@ const App = () => {
       <Routes>
         <Route exact path="/" element={<Home />} />
         <Route element={<Layout />}>
-          <Route path="/people/:year/" element={<PeoplePage />} />
-          <Route path="/person/:id/" element={<PersonPage />} />
-          <Route path="/ContactUs/" element={<ContactUs />} />
-          <Route path="/OurStory/" element={<OurStory />} />
-          <Route path="/StoryTeller/" element={<StoryTeller />} />
+          <Route path="people/:year/" element={<PeoplePage />} />
+          <Route path="person/:id/" element={<PersonPage />} />
+          <Route path="ContactUs/" element={<ContactUs />} />
+          <Route path="OurStory/" element={<OurStory />} />
+          <Route path="StoryTeller/" element={<StoryTeller />} />
         </Route>
       </Routes>
     </HashRouter>
