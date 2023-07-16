@@ -38,7 +38,7 @@ export const WEEKLY_STORY = {
   storyTitle: "STORY OF THE WEEK",
   storyDescription:
     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-  storyImage: "./nelson-pink.png",
+  storyImage: "public/images/nelson-pink.png",
 };
 
 export const FOOTER = {
