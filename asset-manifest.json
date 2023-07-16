@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/the-commons-app/static/css/main.e8b0b4f8.css",
-    "main.js": "/the-commons-app/static/js/main.6647409a.js",
+    "main.js": "/the-commons-app/static/js/main.cdd50510.js",
     "static/js/787.28cb0dcd.chunk.js": "/the-commons-app/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/the-commons-app/index.html",
     "main.e8b0b4f8.css.map": "/the-commons-app/static/css/main.e8b0b4f8.css.map",
-    "main.6647409a.js.map": "/the-commons-app/static/js/main.6647409a.js.map",
+    "main.cdd50510.js.map": "/the-commons-app/static/js/main.cdd50510.js.map",
     "787.28cb0dcd.chunk.js.map": "/the-commons-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8b0b4f8.css",
-    "static/js/main.6647409a.js"
+    "static/js/main.cdd50510.js"
   ]
 }
