@@ -7,7 +7,6 @@ import PersonPage from "./Pages/PersonPage";
 import ContactUs from "./Pages/ContactUs";
 import OurStory from "./Pages/OurStory";
 import StoryTeller from "./Pages/Storyteller";
-// eslint-disable-next-line no-unused-vars
 import { HashRouter, Routes, Route } from "react-router-dom";
 import reportWebVitals from "./reportWebVitals";
 import Layout from "./Components/Layout";
