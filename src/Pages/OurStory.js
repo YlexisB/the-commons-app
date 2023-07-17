@@ -8,7 +8,7 @@ const OurStory = () => {
     <div>
       <div id="about-container">
         <div className="circle-mask">
-          <img src="../images/airplane.PNG" className="floating" alt="" />
+          <img src="../images/airplane.png" className="floating" alt="" />
         </div>
         <div id="second-about-container">
           <h1>{HEADER_STUFF.about}</h1>
