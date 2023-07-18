@@ -27,7 +27,7 @@ const PeoplePage = () => {
                 }}
                 className="person-link"
               >
-                <img src={`../images/${person.image}`} alt="" />
+                <img src={`./images/${person.image}`} alt="" />
               </Link>
               <div>
                 <Link
@@ -47,7 +47,6 @@ const PeoplePage = () => {
           ))}
         </div>
       </section>
-      
     </div>
   );
 };
