@@ -3,10 +3,9 @@ import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import Aos from "aos";
 import "aos/dist/aos.css";
-
 import data from "../data.json";
 import axios from "axios";
-import { VOICERSS_API_URL } from "../constants";
+import { PERSONP_STUFF, VOICERSS_API_URL } from "../constants";
 
 const PersonPage = () => {
   const [data1, setData1] = useState();
@@ -65,7 +64,7 @@ const PersonPage = () => {
       <div id="person-section">
         <div className="person-intro-section">
           <div className="person-intro">
-            <h1>THE COMMONS</h1>
+            <h1>{PERSONP_STUFF.titleText}</h1>
             <img
               data-aos="fade-up-left"
               className="first-image"

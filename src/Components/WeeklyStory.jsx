@@ -13,7 +13,7 @@ const WeeklyStory = () => {
           <hr />
         </div>
         <div data-aos="fade-right" id="week-story-pic">
-          <img id="week-person-pic" src="./images/nelson-pink.png" alt="" />
+          <img id="week-person-pic" src={WEEKLY_STORY.imageLink} alt="" />
         </div>
       </div>
     </section>

@@ -19,6 +19,7 @@ export const OUR_STORY = {
     " Welcome to The Commons, a vibrant digital realm where the forgotten tales of the past come alive. Step into a world where extraordinary lives and untold stories await your discovery. With  our motto:A glimpse into an eye's present, and our past, we invite you to embark on a journey of connection and inspiration. Travel through time, from the enchanting 1500s to the captivating 1900s, and unlock the hidden narratives of remarkable individuals who shaped history. Click on their names, and immerse yourself in their triumphs, struggles, and unyielding spirit. Get ready to be captivated by the power of storytelling.",
   about2:
     "But The Commons is not just about the past; it's about you. Our Tell Your Story section is a place where your own experiences and the cherished memories of your loved ones find their eternal home. Let us keep your unique stories alive, weaving a tapestry of shared human experiences that transcend time. Together, we become part of an enduring legacy, inspiring future generations with tales of resilience, love, and the boundless potential within every individual. Join us on this thrilling quest to uncover the threads that connect us all and ignite your imagination with the wonders of the past.",
+  airplaneImage: "./images/airplane.png",
 };
 
 export const TELL_YOUR_STORY = {
@@ -39,9 +40,18 @@ export const WEEKLY_STORY = {
   storyDescription:
     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
   storyImage: "./images/nelson-pink.png",
+  imageLink: "./images/nelson-pink.png",
 };
 
 export const FOOTER = {
   prompt: "WANT TO TELL YOU STORY?",
   prompt2: "CLICK HERE NOW",
+};
+
+export const PEOPLEP_STUFF = {
+  backButton: "← BACK",
+  yearText: "People of the ",
+};
+export const PERSONP_STUFF = {
+  titleText: "THE COMMONS",
 };

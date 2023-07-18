@@ -1,8 +1,8 @@
 import React from "react";
-
 import { Link, useParams } from "react-router-dom";
-
 import data from "../data.json";
+import { PEOPLEP_STUFF } from "../constants";
+
 const PeoplePage = () => {
   const { year } = useParams();
   const timePeriod = data.timePeriods.find((period) => period.year === year);
@@ -11,9 +11,12 @@ const PeoplePage = () => {
       <section id="people-section">
         <div className="back-year">
           <Link to="/">
-            <button className="back-button">← BACK</button>
+            <button className="back-button">{PEOPLEP_STUFF.backButton}</button>
           </Link>
-          <h2 className="year">People of the {year}</h2>
+          <h2 className="year">
+            {PEOPLEP_STUFF.yearText}
+            {year}
+          </h2>
         </div>
         <div id="elements-container">
           {timePeriod.people.map((person, index) => (
