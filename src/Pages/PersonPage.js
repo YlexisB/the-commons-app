@@ -86,7 +86,7 @@ const PersonPage = () => {
             <img
               data-aos="fade-up"
               className="image-2"
-              src={`../images/${person["image-2"]}`}
+              src={`./images/${person["image-2"]}`}
               alt="img-2"
             />
           </div>
