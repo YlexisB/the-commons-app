@@ -44,7 +44,7 @@ export const WEEKLY_STORY = {
 };
 
 export const FOOTER = {
-  prompt: "WANT TO TELL YOU STORY?",
+  prompt: "WANT TO TELL YOUR STORY?",
   prompt2: "CLICK HERE NOW",
 };
 
